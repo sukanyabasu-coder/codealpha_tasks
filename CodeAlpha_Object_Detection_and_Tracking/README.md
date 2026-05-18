@@ -110,7 +110,8 @@ These issues were improved using:
 ---
 
 **## Output**
-Sample ouput video is attached to have a quick look!
+
+Sample ouput reference video is attached to have a quick look!
 
 ---
 
