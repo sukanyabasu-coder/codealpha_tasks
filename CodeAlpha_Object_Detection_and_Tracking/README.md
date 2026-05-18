@@ -109,7 +109,7 @@ These issues were improved using:
 
 ---
 
-**## Output**
+##**Output**
 
 Sample ouput reference video is attached to have a quick look!
 
