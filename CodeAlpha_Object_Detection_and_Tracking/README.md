@@ -109,6 +109,11 @@ These issues were improved using:
 
 ---
 
+**## Output**
+Sample ouput video is attached to have a quick look!
+
+---
+
 ## Future Improvements
 - DeepSORT integration
 - Custom-trained YOLO model
